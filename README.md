@@ -9,4 +9,4 @@
 2. 克隆或下载该仓库：
 
 ```bash
-git clone https://github.com/你的用户名/你的仓库名.git
+git clone https://github.com/HeCUana/-New-Chapter-Building-Score-Calculator.git
