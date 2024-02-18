@@ -11,11 +11,3 @@
 求人数不得多于 3 人。
 预审分数=(卷面得分*max(1,(参与团队项目数+作品数)/2+1))/8。
 
-## 如何使用
-
-1. 安装 Python（如果尚未安装）：[https://www.python.org/downloads/](https://www.python.org/downloads/)
-
-2. 克隆或下载该仓库：
-
-```bash
-git clone https://github.com/HeCUana/-New-Chapter-Building-Score-Calculator.git
