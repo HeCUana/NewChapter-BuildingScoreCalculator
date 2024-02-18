@@ -48,9 +48,9 @@ detail_1, size_1, overall_planning_1 = get_evaluation("[一号评分员] ")
 detail_2, size_2, overall_planning_2 = get_evaluation("[二号评分员] ")
 
 # 计算第一个评分员的综合评分
-rating_1 = (detail_1 / size_1 / 3 + overall_planning_1 / 5) * 33.33
+rating_1 = (detail_1 / 10 + size_1 / 3 + overall_planning_1 / 5) * 33.33
 # 计算第二个评分员的综合评分
-rating_2 = (detail_2 / size_2 / 3 + overall_planning_2 / 5) * 33.33
+rating_2 = (detail_2 / 10 + size_2 / 3 + overall_planning_2 / 5) * 33.33
 # 计算平均综合评分
 average = (rating_1 + rating_2) / 2
 
